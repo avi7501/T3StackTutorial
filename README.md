@@ -13,13 +13,6 @@ This is a starter project/boilerplate to start out with:
 
 It allows us to call database in server components through supabase-js, for client component we are using trpc+prisma due to the superior DX
 
-## Projects using this starter
-
-- PortfolioQuiz [Website](https://www.portfolio-quiz.com/)
-- Friendly Macros [Repo](https://github.com/F-PTS/FriendlyMacros) [Website](https://friendly-macros.vercel.app/)
-- Twitter Clone [Repo](https://github.com/F-PTS/Blogg) [Website](https://blogg-f-pts.vercel.app/)
-- Instagram Clone [Repo](https://github.com/jakubczarnowski/instagram-clone) [Website](https://instagram-clone-eight-mu.vercel.app/)
-
 ## What's next? How do I make an app with this?
 
 - Clone this project
